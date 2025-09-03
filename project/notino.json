@@ -1,0 +1,615 @@
+{
+  "keys": [
+    "cerave/cleansers-pieniacy-sie-zel-oczyszczajacy-do-skory-normalnej-i-mieszanej/p-15692406/"
+  ],
+  "rpc": "CEV01999",
+  "campaign": "CeraVe Cleansers Foaming Cleanser",
+  "language": "pl-PL",
+  "type": 0,
+  "dateOnSaleFrom": null,
+  "owner": "MatusC",
+  "contents": [
+    {
+      "name": "CeraVe Cleansers Foaming Cleanser",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "Marka stworzona z dermatologami.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV_mobile.jpg",
+                "element": "img",
+                "alt": "Marka stworzona z dermatologami.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_02.jpg",
+                "element": "img",
+                "alt": "Oczyszczający żel do mycia.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_02_mobile.jpg",
+                "element": "img",
+                "alt": "Oczyszczający żel do mycia.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "header",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  3 KLUCZOWE CERAMIDY IDENTYCZNE DO TYCH W TWOJEJ SKÓRZE\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "lineHeight": "1.2"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<span style=\"font-weight: 300;\">\r\n  Ceramidy to naturalnie występujące w skórze lipidy, które pełnią funkcję \"cementu\" spajającego komórki, tworząc naturalną barierę ochronną skóry. Dzięki temu zapewniają optymalne nawilżenie i chronią przed negatywnym wpływem czynników zewnętrznych.\r\n  <br><br>\r\n  CeraVe posiada unikalne połączenie 3 kluczowych ceramidów EOP, NP, AP (wcześniejsza nazwa ceramidów to 1, 3, 6-II), które wspierają odbudowę naturalnej bariery ochronnej skóry.\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "lineHeight": "1.4",
+                  "marginRight": "20px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "MOD_03.jpg",
+                "element": "img",
+                "alt": "Oczyszczający żel do mycia.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "20px 35px",
+              "marginBottom": "40px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  SKŁADNIKI AKTYWNE\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "0",
+              "padding": "0 10px",
+              "textAlign": "center"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  CERAMIDY\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  Wspierają odbudowę bariery ochronnej skóry.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD_04-A.jpg",
+                "alt": "Ceramidy.",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  NIACYNAMID\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  Koi i reguluje produkcję sebum.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD_04-B.jpg",
+                "alt": "Niacynamid.",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KWAS HIALURONOWY\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  Intensywnie nawilża.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD_04-C.jpg",
+                "alt": "Koi i reguluje produkcję sebum.",
+                "element": "img",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_05.jpg",
+                "element": "img",
+                "alt": "Odpowiedni dla cery normalnej i tłustej.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_05_mobile.jpg",
+                "element": "img",
+                "alt": "Odpowiedni dla cery normalnej i tłustej.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_06.jpg",
+                "element": "img",
+                "alt": "Żelowa, pieniąca się formuła..",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_06_mobile.jpg",
+                "element": "img",
+                "alt": "Żelowa, pieniąca się formuła..",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "embeddedVideo",
+            "data": [
+              {
+                "name": "embeddedVideoId",
+                "value": "Zhnm3WomlW8",
+                "element": "iframe"
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_07.jpg",
+                "element": "img",
+                "alt": "Mniej plastiku + więcej korzyści. Odkryj opakowanie uzupełniające!",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_07_mobile.jpg",
+                "element": "img",
+                "alt": "Mniej plastiku + więcej korzyści. Odkryj opakowanie uzupełniające!",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  RUTYNA CERAVE\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "0",
+              "padding": "0 10px",
+              "textAlign": "center"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 1: OCZYSZCZANIE\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Oczyszczający żel do mycia</span> <br>\r\n  Zwilż skórę letnią wodą. Wmasuj produkt delikatnymi, okrężnymi ruchami. Spłucz.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD_08-A.jpg",
+                "alt": "Oczyszczający żel do mycia.",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 2: NAWILŻENIE\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Nawilżająca emulsja</span> <br>\r\n  Nakładaj obficie na skórę twarzy i ciała, omijając okolice oczu.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD_08-B.jpg",
+                "alt": "Nawilżająca emulsja.",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 3: OCHRONA\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Nawilżający krem do twarzy SPF 50</span> <br>\r\n  Nakładaj na osuszoną skórę twarzy na dzień.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD_08-C.jpg",
+                "alt": "Nawilżający krem do twarzy SPF 50.",
+                "element": "img",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div>\r\n  *Na podstawie wewnętrznej analizy przeprowadzonej przez L’Oreal Polska sp. z o.o., z wykorzystaniem danych z następującego źródła: IQVIA Poland Pharmascope & ePharmacy Tracker YTD 05/2025; OTC2: 83A PRODUKTY PRZECIWŁOJOTOKOWE, Ilości, odzwierciedlające szacunki rzeczywistej aktywności rynkowej. Prawa autorskie IQVIA. Wszelkie prawa zastrzeżone.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "12px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "300",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "10px",
+              "marginBottom": "10px",
+              "padding": "0 25px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
