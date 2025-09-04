@@ -105,7 +105,7 @@
             "data": [
               {
                 "name": "header",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  3 KLUCZOWE CERAMIDY IDENTYCZNE DO TYCH W TWOJEJ SKÓRZE\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  3 KLUCZOWE CERAMIDY IDENTYCZNE DO TYCH W TWOJEJ SKÓRZE</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -116,7 +116,7 @@
               },
               {
                 "name": "content",
-                "value": "<span style=\"font-weight: 300;\">\r\n  Ceramidy to naturalnie występujące w skórze lipidy, które pełnią funkcję \"cementu\" spajającego komórki, tworząc naturalną barierę ochronną skóry. Dzięki temu zapewniają optymalne nawilżenie i chronią przed negatywnym wpływem czynników zewnętrznych.\r\n  <br><br>\r\n  CeraVe posiada unikalne połączenie 3 kluczowych ceramidów EOP, NP, AP (wcześniejsza nazwa ceramidów to 1, 3, 6-II), które wspierają odbudowę naturalnej bariery ochronnej skóry.\r\n</span>",
+                "value": "<span style=\"font-weight: 300;\">  Ceramidy to naturalnie występujące w skórze lipidy, które pełnią funkcję \"cementu\" spajającego komórki, tworząc naturalną barierę ochronną skóry. Dzięki temu zapewniają optymalne nawilżenie i chronią przed negatywnym wpływem czynników zewnętrznych.  <br><br>  CeraVe posiada unikalne połączenie 3 kluczowych ceramidów EOP, NP, AP (wcześniejsza nazwa ceramidów to 1, 3, 6-II), które wspierają odbudowę naturalnej bariery ochronnej skóry.</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -150,7 +150,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  SKŁADNIKI AKTYWNE\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  SKŁADNIKI AKTYWNE</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -183,7 +183,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  CERAMIDY\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  CERAMIDY</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -195,7 +195,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  Wspierają odbudowę bariery ochronnej skóry.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  Wspierają odbudowę bariery ochronnej skóry.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -214,7 +214,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  NIACYNAMID\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  NIACYNAMID</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -226,7 +226,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  Koi i reguluje produkcję sebum.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  Koi i reguluje produkcję sebum.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -245,7 +245,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KWAS HIALURONOWY\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  KWAS HIALURONOWY</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -257,7 +257,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  Intensywnie nawilża.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  Intensywnie nawilża.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -433,7 +433,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  RUTYNA CERAVE\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  RUTYNA CERAVE</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -466,7 +466,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 1: OCZYSZCZANIE\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  KROK 1: OCZYSZCZANIE</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -478,7 +478,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Oczyszczający żel do mycia</span> <br>\r\n  Zwilż skórę letnią wodą. Wmasuj produkt delikatnymi, okrężnymi ruchami. Spłucz.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700\">Oczyszczający żel do mycia</span> <br>  Zwilż skórę letnią wodą. Wmasuj produkt delikatnymi, okrężnymi ruchami. Spłucz.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -497,7 +497,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 2: NAWILŻENIE\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  KROK 2: NAWILŻENIE</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -509,7 +509,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Nawilżająca emulsja</span> <br>\r\n  Nakładaj obficie na skórę twarzy i ciała, omijając okolice oczu.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700\">Nawilżająca emulsja</span> <br>  Nakładaj obficie na skórę twarzy i ciała, omijając okolice oczu.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -528,7 +528,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  KROK 3: OCHRONA\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  KROK 3: OCHRONA</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -540,7 +540,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700\">Nawilżający krem do twarzy SPF 50</span> <br>\r\n  Nakładaj na osuszoną skórę twarzy na dzień.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700\">Nawilżający krem do twarzy SPF 50</span> <br>  Nakładaj na osuszoną skórę twarzy na dzień.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
@@ -585,7 +585,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div>\r\n  *Na podstawie wewnętrznej analizy przeprowadzonej przez L’Oreal Polska sp. z o.o., z wykorzystaniem danych z następującego źródła: IQVIA Poland Pharmascope & ePharmacy Tracker YTD 05/2025; OTC2: 83A PRODUKTY PRZECIWŁOJOTOKOWE, Ilości, odzwierciedlające szacunki rzeczywistej aktywności rynkowej. Prawa autorskie IQVIA. Wszelkie prawa zastrzeżone.\r\n</div>",
+                "value": "<div>  *Na podstawie wewnętrznej analizy przeprowadzonej przez L’Oreal Polska sp. z o.o., z wykorzystaniem danych z następującego źródła: IQVIA Poland Pharmascope & ePharmacy Tracker YTD 05/2025; OTC2: 83A PRODUKTY PRZECIWŁOJOTOKOWE, Ilości, odzwierciedlające szacunki rzeczywistej aktywności rynkowej. Prawa autorskie IQVIA. Wszelkie prawa zastrzeżone.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "12px",
